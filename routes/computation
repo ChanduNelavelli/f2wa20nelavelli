@@ -16,7 +16,7 @@ var val3= "Math.expm1() applied to "+ x + " is "+ Math.expm1();
 
 router.get('/', function(req, res, next) {
 
-  res.render('computation', { title:'VENKATA KEERTHI KAMANI ',value1: val1, value2:vasl2, value3:val3 });
+  res.render('computation', { title:'Chandu Nelavelli',value1: val1, value2:vasl2, value3:val3 });
 
 });
 
