@@ -8,9 +8,9 @@ var y = Math.random();
 
 var val1="Math.atan(base) applied to "+ x + " is "+ Math.atan(x)
 
-var val2="Math.exp(base,exponent) applied to "+ x +"and"+ y +" is "+ Math.exp()
+var val2="Math.exp(base,exponent) applied to "+ x +"and"+ y +" is "+ Math.exp(x,y)
 
-var val3= "Math.expm1(base) applied to "+ x + " is "+ Math.expm1();
+var val3= "Math.expm1(base) applied to "+ x + " is "+ Math.expm1(x);
 
 /* GET home page. */
 
